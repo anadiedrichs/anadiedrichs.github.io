@@ -13,21 +13,57 @@
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Using SmartMesh IP in Smart Agriculture and Smart Building Applications</title>
+      <link>/publication/comcom2018/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/comcom2018/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>(Not so) intuitive results from a smart agriculture low-power wireless mesh deployment</title>
+      <link>/publication/not-so-results/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/not-so-results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A demo of the PEACH IoT-based frost event prediction system for precision agriculture</title>
+      <link>/publication/demo-peach/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/demo-peach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peach: Predicting frost events in peach orchards using IoT technology</title>
+      <link>/publication/peach/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/peach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-power wireless sensor network for frost monitoring in agriculture research</title>
+      <link>/publication/argencon2014/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/argencon2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of LQI behavior in WSN for glacier area in Patagonia Argentina</title>
+      <link>/publication/case2013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/case2013/</guid>
+      <description></description>
     </item>
     
   </channel>

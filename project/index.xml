@@ -7,26 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Prediction of frost using machine learning</title>
+      <link>/project/frost-prediction/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>/project/frost-prediction/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>SIPIA: Sensores inalámbricos para la Investigación Agronómica</title>
+      <link>/project/sipia/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>/project/sipia/</guid>
+      <description>Farmers can lose everything in a couple of hours In 2013, 85% of the peach production in the Mendoza region (Argentina) was lost because of frost. Because less fruit was produced in the region, 600.000 less work days were needed to process the harvest between November 2013 and March 2014, a reduction in work force of 10.600 people. Across the Mendoza region, frost has caused a loss of revenue of 950 million Argentine pesos roughly 100 million USD in the peach business alone.</description>
+    </item>
+    
+    <item>
+      <title>Save the peaches</title>
+      <link>/project/save-the-peaches/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/save-the-peaches/</guid>
+      <description>Farmers can lose everything in a couple of hours In 2013, 85% of the peach production in the Mendoza region (Argentina) was lost because of frost. Because less fruit was produced in the region, 600.000 less work days were needed to process the harvest between November 2013 and March 2014, a reduction in work force of 10.600 people. Across the Mendoza region, frost has caused a loss of revenue of 950 million Argentine pesos roughly 100 million USD in the peach business alone.</description>
+    </item>
+    
+    <item>
+      <title>frost: An R package</title>
+      <link>/project/frost-r-package/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frost-r-package/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 07 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography ** THIS SITE IS UNDER CONSTRUCTION ** I&amp;rsquo;m a Ph.D. Student at UTN FRM. My current research focuses on “Prediction of frost location using machine learning and wireless sensor networks.” I have been lecturing Internet of Things (Electronic Engineer Department), Machine learning and Artificial Intelligence (Information System Department) as a teacher assistant in UTN, Mendoza. I&amp;rsquo;m founder and organizer of R-Ladies Mendoza chapter.</description>
+      <description>Biography I&amp;rsquo;m a Ph.D. Student at UTN FRM. My current research focuses on prediction of frost location using machine learning and wireless sensor networks. I have been lecturing Internet of Things (Electronic Engineer Department), Machine learning and Artificial Intelligence (Information System Department) as a teacher assistant in UTN, Mendoza. I&amp;rsquo;m founder and organizer of R-Ladies Mendoza chapter.</description>
     </item>
     
     <item>
@@ -31,16 +31,16 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 -0300</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Recent Talks</title>
       <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -67,17 +67,6 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
-    </item>
-    
-    <item>
       <title>Tags</title>
       <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
@@ -89,7 +78,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

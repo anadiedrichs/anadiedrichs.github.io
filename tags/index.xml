@@ -22,47 +22,65 @@
     </item>
     
     <item>
-      <title>Deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Code</title>
+      <link>/tags/code/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Frost</title>
+      <link>/tags/frost/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/frost/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>IoT</title>
+      <link>/tags/iot/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Save-the-peaches</title>
+      <link>/tags/save-the-peaches/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/save-the-peaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensors</title>
+      <link>/tags/sensors/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sensors/</guid>
       <description></description>
     </item>
     

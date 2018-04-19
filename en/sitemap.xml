@@ -5,6 +5,51 @@
     
     <url>
     
+      <loc>/project/frost-prediction/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/sipia/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/save-the-peaches/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/comcom2018/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/frost-r-package/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-03:00</lastmod>
     </url>
@@ -50,8 +95,8 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/publication/not-so-results/</loc>
+      <lastmod>2016-10-03T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -59,8 +104,8 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/publication/demo-peach/</loc>
+      <lastmod>2016-06-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -68,8 +113,8 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-03:00</lastmod>
+      <loc>/publication/peach/</loc>
+      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -77,46 +122,8 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/argencon2014/</loc>
+      <lastmod>2014-06-11T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -128,7 +135,7 @@
       <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
     
       <loc>/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -149,8 +156,16 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/publication/case2013/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/code/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -159,8 +174,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/frost/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -169,8 +184,18 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/iot/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/machine-learning/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -180,7 +205,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,11 +214,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/es/publication_types/" hreflang="es"/>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>/tags/r/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -202,8 +224,8 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/save-the-peaches/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -212,18 +234,8 @@
     
     <url>
     
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/sensors/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
