@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Prediction of frost events using machine learning and IoT sensing devices</title>
+      <link>/publication/ieeeiot2018/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ieeeiot2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frost: an R package</title>
+      <link>/talk/2018-latinr/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-latinr/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Prediction of frost using machine learning</title>
       <link>/project/frost-prediction/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
@@ -58,6 +77,26 @@ The goal of the project is to predict frost events in peach orchards by using de
       
       <guid>/project/frost-r-package/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/2018-cabase/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-cabase/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/2018-ietfday/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-ietfday/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
     <item>

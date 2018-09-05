@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>frost: an R package</title>
+      <link>/talk/2018-latinr/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-latinr/</guid>
+      <description>Embed your slides or video here using shortcodes.</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/2018-cabase/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-cabase/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/2018-ietfday/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-ietfday/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
