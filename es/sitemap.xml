@@ -30,6 +30,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/es/publication_types/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+    
+      <loc>/es/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
     

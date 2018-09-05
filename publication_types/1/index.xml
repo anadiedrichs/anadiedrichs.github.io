@@ -7,18 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>(Not so) intuitive results from a smart agriculture low-power wireless mesh deployment</title>
+      <link>/publication/not-so-results/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/not-so-results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A demo of the PEACH IoT-based frost event prediction system for precision agriculture</title>
+      <link>/publication/demo-peach/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/demo-peach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-power wireless sensor network for frost monitoring in agriculture research</title>
+      <link>/publication/argencon2014/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/argencon2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of LQI behavior in WSN for glacier area in Patagonia Argentina</title>
+      <link>/publication/case2013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/case2013/</guid>
+      <description></description>
     </item>
     
   </channel>

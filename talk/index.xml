@@ -13,38 +13,29 @@
     
     
     <item>
-      <title>frost: an R package</title>
+      <title>frost: an R package - prediction of minimum temperature for frost forecasting in agriculture </title>
       <link>/talk/2018-latinr/</link>
-      <pubDate>Sat, 05 May 2018 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 -0300</pubDate>
       
       <guid>/talk/2018-latinr/</guid>
-      <description>Embed your slides or video here using shortcodes.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/2018-cabase/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
-      
-      <guid>/talk/2018-cabase/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
+      <title>Ética 2.0: debate sobre las implicancias de la inteligencia artificial e internet de las cosas en nuestro día a día.</title>
       <link>/talk/2018-ietfday/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 -0300</pubDate>
       
       <guid>/talk/2018-ietfday/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 -0300</pubDate>
       
-      <guid>/talk/example-talk/</guid>
+      <guid>/talk/example/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
