@@ -125,6 +125,16 @@ The goal of the project is to predict frost events in peach orchards by using de
     
     <item>
       <title>Example Talk</title>
+      <link>/talk/2018-cabase/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-cabase/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
       <link>/talk/example/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 -0300</pubDate>
       
