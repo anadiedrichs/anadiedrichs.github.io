@@ -48,6 +48,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
   
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+  
   
   
   
@@ -413,7 +415,7 @@ I have been lecturing Internet of Things (Electronic Engineer Department), Machi
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">System Information Engineering, 2009</p>
+              <p class="course">Information Systems Engineering, 2009</p>
               <p class="institution">Universidad Tecnológica Nacional, Mendoza</p>
             </div>
           </li>
@@ -815,74 +817,6 @@ I have been lecturing Internet of Things (Electronic Engineer Department), Machi
 
       
     
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
-  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="./talk/2018-cabase/">Example Talk</a></span>
-  <div itemprop="startDate">
-    
-    2000-06-01
-    
-  </div>
-  <div class="talk-metadata">
-    
-            Academic Theme Conference
-    
-  </div>
-  <div class="talk-links">
-    
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="./project/deep-learning/">
-  Project
-</a>
-
-
-
-  </div>
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
-  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="./talk/example/">Example Talk</a></span>
-  <div itemprop="startDate">
-    
-    2000-06-01
-    
-  </div>
-  <div class="talk-metadata">
-    
-            Academic Theme Conference
-    
-  </div>
-  <div class="talk-links">
-    
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="./project/deep-learning/">
-  Project
-</a>
-
-
-
-  </div>
-</div>
-
-      
-    
   </div>
 </div>
 
@@ -1153,7 +1087,7 @@ I have been lecturing Internet of Things (Electronic Engineer Department), Machi
       
       <li>
         <i class="fa-li fa fa-skype fa-2x" aria-hidden="true"></i>
-        <span>anadiedrichs</span>
+        <span>ana.diedrichs</span>
       </li>
       
 
@@ -1167,7 +1101,7 @@ I have been lecturing Internet of Things (Electronic Engineer Department), Machi
       
       <li>
         <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">Rodriguez 273, Ciudad de Mendoza. 5500 Mendoza. Argentina. (Map https://goo.gl/maps/y2a9Mrxf4iL2)</span>
+        <span id="person-address" itemprop="address">Coronel Rodriguez 273, Ciudad de Mendoza. 5500 Mendoza. Argentina.</span>
       </li>
       
 
@@ -1180,6 +1114,16 @@ I have been lecturing Internet of Things (Electronic Engineer Department), Machi
 
     </ul>
 
+    
+    <div class="hidden">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="-32.89737">
+      <input id="map-lng" value="-68.85370">
+      <input id="map-dir" value="Coronel Rodriguez 273, Ciudad de Mendoza. 5500 Mendoza. Argentina.">
+      <input id="map-zoom" value="15">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
     
 
   </div>
@@ -1252,6 +1196,8 @@ I have been lecturing Internet of Things (Electronic Engineer Department), Machi
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
     
     <script src="./js/hugo-academic.js"></script>

@@ -5,6 +5,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/talk/2018-latinr/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/talk/2018-latinr/" hreflang="es"/>
+    
       <loc>/talk/2018-latinr/</loc>
       <lastmod>2018-09-05T00:00:00-03:00</lastmod>
     </url>
@@ -13,6 +16,9 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/talk/2018-ietfday/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/talk/2018-ietfday/" hreflang="es"/>
     
       <loc>/talk/2018-ietfday/</loc>
       <lastmod>2018-09-03T00:00:00-03:00</lastmod>
@@ -104,6 +110,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/talk/" hreflang="es"/>
+    
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -142,24 +151,6 @@
     
       <loc>/publication/argencon2014/</loc>
       <lastmod>2014-06-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/2018-cabase/</loc>
-      <lastmod>2000-01-01T00:00:00-03:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/example/</loc>
-      <lastmod>2000-01-01T00:00:00-03:00</lastmod>
     </url>
     
   

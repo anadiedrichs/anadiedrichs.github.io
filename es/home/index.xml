@@ -18,8 +18,70 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/es/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biografía Soy una estudiante de doctorado de la UTN FRM. Mi investigación actual trata de predicción de heladas usando aprendizaje automático e internet de las cosas. Dicto clases en la universidad sobre Internet de las cosas (Departamento de Ingeniería electrónica), Aprendizaje automático e inteligencia artificial (Departamento de Ingeniería en Sistemas de Información) como docente ayudante en la Universidad Tecnológica Nacional (UTN FRM), Mendoza, Argentina. Soy fundadora y organizadora del capítulo R-Ladies Mendoza chapter.</description>
+    </item>
+    
+    <item>
+      <title>Publicaciones seleccionadas</title>
+      <link>/es/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/es/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publicaciones</title>
+      <link>/es/home/publications/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/es/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exposiciones recientes</title>
+      <link>/es/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/es/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts recientes</title>
+      <link>/es/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/es/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proyectos</title>
+      <link>/es/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/es/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etiquetas</title>
+      <link>/es/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/es/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>/es/home/contact/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/es/home/contact/</guid>
+      <description></description>
     </item>
     
   </channel>

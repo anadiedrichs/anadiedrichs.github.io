@@ -5,6 +5,30 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/es/talk/2018-latinr/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/talk/2018-latinr/" hreflang="en"/>
+    
+      <loc>/es/talk/2018-latinr/</loc>
+      <lastmod>2018-09-05T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/talk/2018-ietfday/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/talk/2018-ietfday/" hreflang="en"/>
+    
+      <loc>/es/talk/2018-ietfday/</loc>
+      <lastmod>2018-09-03T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
     
@@ -46,6 +70,19 @@
       <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
     
       <loc>/es/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/talk/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
+    
+      <loc>/es/talk/</loc>
+      <lastmod>2018-09-05T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
