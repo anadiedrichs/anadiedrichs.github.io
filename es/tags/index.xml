@@ -6,10 +6,38 @@
     <description>Recent content in Tags on Ana Laura Diedrichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018-2019</copyright>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frost</title>
+      <link>/es/tags/frost/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/frost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-learning</title>
+      <link>/es/tags/machine-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yield forecasting</title>
+      <link>/es/tags/yield-forecasting/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/yield-forecasting/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

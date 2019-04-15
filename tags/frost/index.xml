@@ -6,11 +6,20 @@
     <description>Recent content in Frost on Ana Laura Diedrichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018-2019</copyright>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/frost/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SENSE : Smart prEdictioN of froSt and yiEld for the wine industry.</title>
+      <link>/project/sense/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/sense/</guid>
+      <description>The aim of this project is to use environmental &amp;amp; agronomic information to build a dataset for: 1) predicting frost events, 2) Selecting the sensor locations most significative for frost events prediction 3) Understand the impact of temperature, humidity and other environmental factors in the vineyard yield forecasting system. Project description file in Spanish here</description>
+    </item>
     
     <item>
       <title>Prediction of frost using machine learning</title>
@@ -18,6 +27,15 @@
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/frost-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of frost using machine learning</title>
+      <link>/project/frost-prediction.utf8/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frost-prediction.utf8/</guid>
       <description></description>
     </item>
     

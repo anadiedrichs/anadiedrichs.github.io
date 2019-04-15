@@ -6,9 +6,19 @@
     <description>Recent content in Ana Laura Diedrichs on Ana Laura Diedrichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018-2019</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SENSE : Smart prEdictioN of froSt and yiEld for the wine industry. Predicción de heladas y pronóstico de cosecha para la industria del vino</title>
+      <link>/es/project/sense/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/project/sense/</guid>
+      <description>&lt;p&gt;El objetivo general del proyecto es utilizar información ambiental y agronómica para elaborar un conjunto de datos cuyas variables nos permitan construir modelos de aprendizaje automático para: 1) Predecir las heladas agronómicas. 2) Identificar las ubicaciones de los sensores ambientales más significativas para la predicción de heladas. 3) Entender el impacto de la temperatura, humedad y otros factores ambientales en el proceso de la maduración y cosecha en viñedos para mejorar el pronóstico de cosecha. Más información en el archivo convocatoria del proyecto,  &lt;a href=&#34;static/files/projects/PID-5128-Sense-Diedrichs-20190222.pdf&#34; target=&#34;_blank&#34;&gt;enlace&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>frost: un paquete de R -  predicción de temperatura mínima para la predicción de heladas en agricultura</title>

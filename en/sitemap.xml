@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/project/sense/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/project/sense/" hreflang="es"/>
+    
+      <loc>/project/sense/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/2018-latinr/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/talk/2018-latinr/" hreflang="es"/>
     
@@ -39,6 +51,15 @@
     <url>
     
       <loc>/project/frost-prediction/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/frost-prediction.utf8/</loc>
       <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -221,8 +242,11 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/frost/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/frost/" hreflang="es"/>
+    
       <loc>/tags/frost/</loc>
-      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -241,8 +265,11 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/machine-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/machine-learning/" hreflang="es"/>
+    
       <loc>/tags/machine-learning/</loc>
-      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -251,8 +278,11 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/project/" hreflang="es"/>
+    
       <loc>/project/</loc>
-      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -309,6 +339,19 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/yield-forecasting/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/yield-forecasting/" hreflang="es"/>
+    
+      <loc>/tags/yield-forecasting/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
