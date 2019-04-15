@@ -103,7 +103,9 @@ The goal of the project is to predict frost events in peach orchards by using de
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/frost-r-package/</guid>
-      <description>&lt;p&gt;The version 0.0.4 of the frost package is published on &lt;a href=&#34;https://cran.r-project.org/web/packages/frost/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The version 0.0.4 of the frost package is published on &lt;a href=&#34;https://cran.r-project.org/web/packages/frost/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/anadiedrichs/frost&#34; target=&#34;_blank&#34;&gt;frost package GitHub repository&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
