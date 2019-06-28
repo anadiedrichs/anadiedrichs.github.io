@@ -30,11 +30,20 @@
     </item>
     
     <item>
-      <title>Ética 2.0: debate sobre las implicancias de la inteligencia artificial e internet de las cosas en nuestro día a día.</title>
+      <title>Ethics concerns in IoT and AI</title>
       <link>/talk/2018-ietfday/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 -0300</pubDate>
       
       <guid>/talk/2018-ietfday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet &amp; the future. Artificial Intelligence and the work industry future</title>
+      <link>/talk/2018-argensig/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2018-argensig/</guid>
       <description></description>
     </item>
     
@@ -126,20 +135,20 @@ The goal of the project is to predict frost events in peach orchards by using de
     </item>
     
     <item>
+      <title>Exploring sensor temperature relationships for located frost prediction </title>
+      <link>/talk/2014-ijcai/</link>
+      <pubDate>Fri, 25 Jul 2014 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2014-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Low-power wireless sensor network for frost monitoring in agriculture research</title>
       <link>/publication/argencon2014/</link>
       <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/argencon2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterization of LQI behavior in WSN for glacier area in Patagonia Argentina</title>
-      <link>/publication/case2013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/case2013/</guid>
       <description></description>
     </item>
     
