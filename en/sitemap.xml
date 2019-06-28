@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/project/reliot/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/project/reliot/" hreflang="es"/>
+    
+      <loc>/project/reliot/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/project/sense/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/project/sense/" hreflang="es"/>
     
@@ -264,8 +276,24 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/internet-of-things/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/internet-of-things/" hreflang="es"/>
+    
+      <loc>/tags/internet-of-things/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/iot/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/iot/" hreflang="es"/>
+    
       <loc>/tags/iot/</loc>
-      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -291,7 +319,7 @@
       <xhtml:link rel="alternate" href="/es/project/" hreflang="es"/>
     
       <loc>/project/</loc>
-      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -315,6 +343,19 @@
     
       <loc>/tags/r/</loc>
       <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/reinforcement-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/reinforcement-learning/" hreflang="es"/>
+    
+      <loc>/tags/reinforcement-learning/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

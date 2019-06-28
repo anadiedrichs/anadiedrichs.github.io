@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/es/project/reliot/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/project/reliot/" hreflang="en"/>
+    
+      <loc>/es/project/reliot/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/project/sense/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/project/sense/" hreflang="en"/>
     
@@ -79,6 +91,32 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/es/tags/internet-of-things/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/tags/internet-of-things/" hreflang="en"/>
+    
+      <loc>/es/tags/internet-of-things/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/tags/iot/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/tags/iot/" hreflang="en"/>
+    
+      <loc>/es/tags/iot/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/tags/machine-learning/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/tags/machine-learning/" hreflang="en"/>
     
@@ -96,7 +134,7 @@
       <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
     
       <loc>/es/project/</loc>
-      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -109,6 +147,19 @@
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
     
       <loc>/es/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/tags/reinforcement-learning/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/tags/reinforcement-learning/" hreflang="en"/>
+    
+      <loc>/es/tags/reinforcement-learning/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
