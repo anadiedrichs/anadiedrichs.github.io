@@ -84,6 +84,15 @@ IoT. Otro de los objetivos es estudiar y ensayar algoritmos de aprendizaje por r
     </item>
     
     <item>
+      <title>Prediction of frost using machine learning</title>
+      <link>/project/frost-prediction.utf8/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frost-prediction.utf8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SIPIA: Sensores inalámbricos para la Investigación Agronómica</title>
       <link>/project/sipia/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
@@ -121,7 +130,9 @@ The goal of the project is to predict frost events in peach orchards by using de
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/frost-r-package/</guid>
-      <description>&lt;p&gt;The version 0.0.4 of the frost package is published on &lt;a href=&#34;https://cran.r-project.org/web/packages/frost/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The version 0.0.4 of the frost package is published on &lt;a href=&#34;https://cran.r-project.org/web/packages/frost/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/anadiedrichs/frost&#34; target=&#34;_blank&#34;&gt;frost package GitHub repository&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -149,15 +160,6 @@ The goal of the project is to predict frost events in peach orchards by using de
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/peach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring sensor temperature relationships for located frost prediction (poster)</title>
-      <link>/talk/2014-ijcai/</link>
-      <pubDate>Fri, 25 Jul 2014 00:00:00 -0300</pubDate>
-      
-      <guid>/talk/2014-ijcai/</guid>
       <description></description>
     </item>
     

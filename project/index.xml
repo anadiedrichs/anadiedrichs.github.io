@@ -42,6 +42,15 @@ El aprendizaje por refuerzo es un área de la inteligencia artificial que estudi
     </item>
     
     <item>
+      <title>Prediction of frost using machine learning</title>
+      <link>/project/frost-prediction.utf8/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frost-prediction.utf8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SIPIA: Sensores inalámbricos para la Investigación Agronómica</title>
       <link>/project/sipia/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
@@ -65,7 +74,8 @@ El aprendizaje por refuerzo es un área de la inteligencia artificial que estudi
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/frost-r-package/</guid>
-      <description>The version 0.0.4 of the frost package is published on CRAN</description>
+      <description>The version 0.0.4 of the frost package is published on CRAN.
+frost package GitHub repository</description>
     </item>
     
   </channel>
