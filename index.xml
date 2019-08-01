@@ -18,7 +18,7 @@
       <guid>/project/reliot/</guid>
       <description>&lt;p&gt;SPANISH Description, translation to English in progress.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;files/projects/PID-RELIOT-2019_enviado.pdf&#34; target=&#34;_blank&#34;&gt;Enlace al PROYECTO presentado&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./files/projects/PID-RELIOT-2019_enviado.pdf&#34;&gt;Enlace al PROYECTO presentado&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;El aprendizaje por refuerzo es un área de la inteligencia artificial que estudia como un agente (programa, sensor, robot, etc) puede aprender de su entorno a tomar las decisiones sobre las siguientes acciones a ejecutar, basado en una función objetivo
 (o varias) modelada a través de un sistema de recompensas y/o penalizaciones. Permite que el agente se desenvuelva en un nuevo entorno y vaya mejorando su desempeño a medida que pasa el tiempo. En el paradigma de Internet de las cosas (IoT)
@@ -34,7 +34,7 @@ IoT. Otro de los objetivos es estudiar y ensayar algoritmos de aprendizaje por r
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/project/sense/</guid>
-      <description>&lt;p&gt;The aim of this project is to use environmental &amp;amp; agronomic information to build a dataset for: 1) predicting frost events, 2) Selecting the sensor locations most significative for frost events prediction 3) Understand the impact of temperature, humidity and other environmental factors in the vineyard yield forecasting system. Project description file in Spanish &lt;a href=&#34;static/files/projects/PID-5128-Sense-Diedrichs-20190222.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The aim of this project is to use environmental &amp;amp; agronomic information to build a dataset for: 1) predicting frost events, 2) Selecting the sensor locations most significative for frost events prediction 3) Understand the impact of temperature, humidity and other environmental factors in the vineyard yield forecasting system. Project description file in Spanish &lt;a href=&#34;./files/projects/PID-5128-Sense-Diedrichs-20190222.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -80,15 +80,6 @@ IoT. Otro de los objetivos es estudiar y ensayar algoritmos de aprendizaje por r
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/frost-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction of frost using machine learning</title>
-      <link>/project/frost-prediction.utf8/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/frost-prediction.utf8/</guid>
       <description></description>
     </item>
     
@@ -160,6 +151,15 @@ The goal of the project is to predict frost events in peach orchards by using de
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/peach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring sensor temperature relationships for located frost prediction (poster)</title>
+      <link>/talk/2014-ijcai/</link>
+      <pubDate>Fri, 25 Jul 2014 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2014-ijcai/</guid>
       <description></description>
     </item>
     
