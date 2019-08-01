@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>IoT in agriculture </title>
+      <link>/talk/2019-sase/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2019-sase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ReLIoT : Reinforcement learning for the Internet of Things.</title>
       <link>/project/reliot/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
@@ -151,15 +160,6 @@ The goal of the project is to predict frost events in peach orchards by using de
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/peach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring sensor temperature relationships for located frost prediction (poster)</title>
-      <link>/talk/2014-ijcai/</link>
-      <pubDate>Fri, 25 Jul 2014 00:00:00 -0300</pubDate>
-      
-      <guid>/talk/2014-ijcai/</guid>
       <description></description>
     </item>
     

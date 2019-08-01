@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>IoT in agriculture </title>
+      <link>/talk/2019-sase/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2019-sase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>frost: an R package - prediction of minimum temperature for frost forecasting in agriculture </title>
       <link>/talk/2018-latinr/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 -0300</pubDate>
