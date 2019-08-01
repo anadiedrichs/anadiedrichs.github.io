@@ -16,7 +16,7 @@
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/project/reliot/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;static/files/projects/PID-RELIOT-2019_enviado.pdf&#34; target=&#34;_blank&#34;&gt;Enlace al PROYECTO presentado&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;../../files/projects/PID-RELIOT-2019_enviado.pdf&#34;&gt;Enlace al PROYECTO presentado&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;El aprendizaje por refuerzo es un área de la inteligencia artificial que estudia como un agente (programa, sensor, robot, etc) puede aprender de su entorno a tomar las decisiones sobre las siguientes acciones a ejecutar, basado en una función objetivo
 (o varias) modelada a través de un sistema de recompensas y/o penalizaciones. Permite que el agente se desenvuelva en un nuevo entorno y vaya mejorando su desempeño a medida que pasa el tiempo. En el paradigma de Internet de las cosas (IoT)
@@ -32,7 +32,7 @@ IoT. Otro de los objetivos es estudiar y ensayar algoritmos de aprendizaje por r
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/project/sense/</guid>
-      <description>&lt;p&gt;El objetivo general del proyecto es utilizar información ambiental y agronómica para elaborar un conjunto de datos cuyas variables nos permitan construir modelos de aprendizaje automático para: 1) Predecir las heladas agronómicas. 2) Identificar las ubicaciones de los sensores ambientales más significativas para la predicción de heladas. 3) Entender el impacto de la temperatura, humedad y otros factores ambientales en el proceso de la maduración y cosecha en viñedos para mejorar el pronóstico de cosecha. Más información en el archivo convocatoria del proyecto,  &lt;a href=&#34;static/files/projects/PID-5128-Sense-Diedrichs-20190222.pdf&#34; target=&#34;_blank&#34;&gt;enlace&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;El objetivo general del proyecto es utilizar información ambiental y agronómica para elaborar un conjunto de datos cuyas variables nos permitan construir modelos de aprendizaje automático para: 1) Predecir las heladas agronómicas. 2) Identificar las ubicaciones de los sensores ambientales más significativas para la predicción de heladas. 3) Entender el impacto de la temperatura, humedad y otros factores ambientales en el proceso de la maduración y cosecha en viñedos para mejorar el pronóstico de cosecha. Más información en el archivo convocatoria del proyecto,  &lt;a href=&#34;files/projects/PID-5128-Sense-Diedrichs-20190222.pdf&#34; target=&#34;_blank&#34;&gt;enlace&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

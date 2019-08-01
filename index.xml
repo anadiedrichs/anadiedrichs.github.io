@@ -18,7 +18,7 @@
       <guid>/project/reliot/</guid>
       <description>&lt;p&gt;SPANISH Description, translation to English in progress.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;static/files/projects/PID-RELIOT-2019_enviado.pdf&#34; target=&#34;_blank&#34;&gt;Enlace al PROYECTO presentado&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;files/projects/PID-RELIOT-2019_enviado.pdf&#34; target=&#34;_blank&#34;&gt;Enlace al PROYECTO presentado&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;El aprendizaje por refuerzo es un área de la inteligencia artificial que estudia como un agente (programa, sensor, robot, etc) puede aprender de su entorno a tomar las decisiones sobre las siguientes acciones a ejecutar, basado en una función objetivo
 (o varias) modelada a través de un sistema de recompensas y/o penalizaciones. Permite que el agente se desenvuelva en un nuevo entorno y vaya mejorando su desempeño a medida que pasa el tiempo. En el paradigma de Internet de las cosas (IoT)
