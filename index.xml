@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Predicción de heladas con aprendizaje automático e Internet de las cosas </title>
+      <link>/talk/2019-latinr/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2019-latinr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ReLIoT : Reinforcement learning for the Internet of Things.</title>
       <link>/project/reliot/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
@@ -151,15 +160,6 @@ The goal of the project is to predict frost events in peach orchards by using de
       <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/demo-peach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peach: Predicting frost events in peach orchards using IoT technology</title>
-      <link>/publication/peach/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/peach/</guid>
       <description></description>
     </item>
     
