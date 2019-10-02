@@ -56,6 +56,42 @@
     
     <url>
     
+      <loc>/post/build-your-sniffer-for-internet-of-things-using-contiki-os/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/get-your-iot-gateway-using-raspberry-pi-6lbr-contiki-os-stack/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/my-r-package-was-accepted-by-cran-how-i-did-it-read-this/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/my-first-mat-r-application/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/2018-latinr/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/talk/2018-latinr/" hreflang="es"/>
     
@@ -334,6 +370,46 @@
     
       <loc>/tags/machine-learning/</loc>
       <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/matr/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/matr/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/mobile/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/programming/</loc>
+      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
