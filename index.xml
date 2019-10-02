@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Reinforcement learning with Open AI Gym: an introduction</title>
+      <link>/talk/2019-pydatacba/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/2019-pydatacba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IoT in agriculture </title>
       <link>/talk/2019-sase/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 -0300</pubDate>
@@ -20,7 +29,7 @@
     </item>
     
     <item>
-      <title>Predicción de heladas con aprendizaje automático e Internet de las cosas </title>
+      <title>frost prediction with machine learning and IoT</title>
       <link>/talk/2019-latinr/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 -0300</pubDate>
       
@@ -54,42 +63,6 @@ IoT. Otro de los objetivos es estudiar y ensayar algoritmos de aprendizaje por r
       <guid>/project/sense/</guid>
       <description>&lt;p&gt;The aim of this project is to use environmental &amp;amp; agronomic information to build a dataset for: 1) predicting frost events, 2) Selecting the sensor locations most significative for frost events prediction 3) Understand the impact of temperature, humidity and other environmental factors in the vineyard yield forecasting system. Project description file in Spanish &lt;a href=&#34;./files/projects/PID-5128-Sense-Diedrichs-20190222.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Build your sniffer for Internet of Things using Contiki OS.</title>
-      <link>/post/build-your-sniffer-for-internet-of-things-using-contiki-os/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/build-your-sniffer-for-internet-of-things-using-contiki-os/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Get your IoT gateway using Raspberry Pi &#43; 6LBR &#43; Contiki OS stack.</title>
-      <link>/post/get-your-iot-gateway-using-raspberry-pi-6lbr-contiki-os-stack/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/get-your-iot-gateway-using-raspberry-pi-6lbr-contiki-os-stack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My R package was accepted by CRAN! How I did it? Read this.</title>
-      <link>/post/my-r-package-was-accepted-by-cran-how-i-did-it-read-this/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/my-r-package-was-accepted-by-cran-how-i-did-it-read-this/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My first Mat|r application</title>
-      <link>/post/my-first-mat-r-application/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/my-first-mat-r-application/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -158,6 +131,36 @@ TO BE COMPLETED&amp;hellip;&lt;/p&gt;
 A frost event happens when the temperature is so low that the crops cannot recover their tissue or internal structure from the effects of water freezing inside or outside the plant. For the peach production, a critical period is when the trees are in bloom and fruit set (Aug./Sept. in Mendoza), during which the temperature needs to be kept above 3° C. Even a few hours below that temperature causes flowers to fall, preventing fruits to grow.
 The goal of the project is to predict frost events in peach orchards by using dense monitoring using low-power wireless mesh networking technology. Off-the-shelf commercial solutions are available today which offer &amp;gt;99.999% end-to-end data reliability and a decade of battery lifetime. We deploy low-power wireless mesh networks of temperature, relative humidity and soil moisture sensors directly into the orchard. We use machine learning and pattern recognition to build a micro-climate predictive model by continuously analyzing the gathered sensor data in real time, and issue early frost warnings.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Using SmartMesh IP in Smart Agriculture and Smart Building Applications</title>
+      <link>/publication/comcom2018/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/comcom2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frost: An R package</title>
+      <link>/project/frost-r-package/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frost-r-package/</guid>
+      <description>&lt;p&gt;The version 0.0.4 of the frost package is published on &lt;a href=&#34;https://cran.r-project.org/web/packages/frost/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/anadiedrichs/frost&#34; target=&#34;_blank&#34;&gt;frost package GitHub repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Not so) intuitive results from a smart agriculture low-power wireless mesh deployment</title>
+      <link>/publication/not-so-results/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/not-so-results/</guid>
+      <description></description>
     </item>
     
   </channel>

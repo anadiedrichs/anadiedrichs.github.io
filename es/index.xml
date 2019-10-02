@@ -11,6 +11,15 @@
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Predicción de heladas con aprendizaje automático e Internet de las cosas </title>
+      <link>/es/talk/2019-latinr/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/es/talk/2019-latinr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ReLIoT : Reinforcement learning for the Internet of Things.</title>
       <link>/es/project/reliot/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>

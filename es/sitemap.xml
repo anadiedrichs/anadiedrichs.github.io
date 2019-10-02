@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/es/talk/2019-latinr/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/talk/2019-latinr/" hreflang="en"/>
+    
+      <loc>/es/talk/2019-latinr/</loc>
+      <lastmod>2019-07-18T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/project/reliot/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/project/reliot/" hreflang="en"/>
     
@@ -185,7 +197,7 @@
       <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
     
       <loc>/es/talk/</loc>
-      <lastmod>2018-09-05T00:00:00-03:00</lastmod>
+      <lastmod>2019-07-18T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
