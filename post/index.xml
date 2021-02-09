@@ -12,5 +12,17 @@
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>R in google colab</title>
+      <link>/post/2021-02-09-r-in-colab/r-in-google-colab/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-09-r-in-colab/r-in-google-colab/</guid>
+      <description>You can have a simply empty R jupyter notebook in colab by using this link
+1) URL: https://colab.research.google.com/#create=true&amp;amp;language=r,
+2) or this short URL https://colab.to/r
+in your favourite browser.</description>
+    </item>
+    
   </channel>
 </rss>

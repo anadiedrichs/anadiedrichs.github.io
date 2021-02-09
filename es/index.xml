@@ -11,6 +11,23 @@
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R in google colab</title>
+      <link>/es/post/2021-02-09-r-in-colab/r-in-google-colab/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/es/post/2021-02-09-r-in-colab/r-in-google-colab/</guid>
+      <description>&lt;p&gt;Puedes usar R en google colab y abrir un notebook jupyter vacío, usando
+los siguientes enlaces:&lt;/p&gt;
+
+&lt;p&gt;1) &lt;a href=&#34;https://colab.research.google.com/#create=true&amp;amp;language=r&#34; target=&#34;_blank&#34;&gt;https://colab.research.google.com/#create=true&amp;amp;language=r&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;2) o esta URL corta &lt;a href=&#34;https://colab.to/r&#34; target=&#34;_blank&#34;&gt;https://colab.to/r&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;en tu navegador web favorito.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Predicción de heladas con aprendizaje automático e Internet de las cosas </title>
       <link>/es/talk/2019-latinr/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 -0300</pubDate>

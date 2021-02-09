@@ -11,6 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R in google colab</title>
+      <link>/post/2021-02-09-r-in-colab/r-in-google-colab/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-09-r-in-colab/r-in-google-colab/</guid>
+      <description>&lt;p&gt;You can have a simply empty R jupyter notebook in colab by using this link&lt;/p&gt;
+
+&lt;p&gt;1) URL: &lt;a href=&#34;https://colab.research.google.com/#create=true&amp;amp;language=r&#34; target=&#34;_blank&#34;&gt;https://colab.research.google.com/#create=true&amp;amp;language=r&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;2) or this short URL &lt;a href=&#34;https://colab.to/r&#34; target=&#34;_blank&#34;&gt;https://colab.to/r&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;in  your favourite browser.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Frost prediction with machine learning and IoT</title>
       <link>/talk/2019-khipu/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 -0300</pubDate>
@@ -149,18 +165,6 @@ The goal of the project is to predict frost events in peach orchards by using de
       
       <guid>/publication/comcom2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>frost: An R package</title>
-      <link>/project/frost-r-package/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/frost-r-package/</guid>
-      <description>&lt;p&gt;The version 0.0.4 of the frost package is published on &lt;a href=&#34;https://cran.r-project.org/web/packages/frost/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/anadiedrichs/frost&#34; target=&#34;_blank&#34;&gt;frost package GitHub repository&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

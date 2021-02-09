@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/post/2021-02-09-r-in-colab/r-in-google-colab/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/post/2021-02-09-r-in-colab/r-in-google-colab/" hreflang="es"/>
+    
+      <loc>/post/2021-02-09-r-in-colab/r-in-google-colab/</loc>
+      <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/2019-khipu/</loc>
       <lastmod>2019-11-11T00:00:00-03:00</lastmod>
     </url>
@@ -13,6 +25,9 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/post/" hreflang="es"/>
     
       <loc>/post/</loc>
       <lastmod>2019-10-01T00:00:00-03:00</lastmod>
@@ -311,6 +326,19 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/colab/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/colab/" hreflang="es"/>
+    
+      <loc>/tags/colab/</loc>
+      <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/frost/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/tags/frost/" hreflang="es"/>
     
@@ -363,6 +391,19 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/programming/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/programming/" hreflang="es"/>
+    
+      <loc>/tags/programming/</loc>
+      <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/project/" hreflang="es"/>
     
@@ -399,11 +440,50 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/r/" hreflang="es"/>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/reinforcement-learning/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/tags/reinforcement-learning/" hreflang="es"/>
     
       <loc>/tags/reinforcement-learning/</loc>
       <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/rstats/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/rstats/" hreflang="es"/>
+    
+      <loc>/tags/rstats/</loc>
+      <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/categories/rstats/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/categories/rstats/" hreflang="es"/>
+    
+      <loc>/categories/rstats/</loc>
+      <lastmod>2021-02-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
